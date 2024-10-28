@@ -63,6 +63,7 @@ I am a results-driven AI/ML Engineer with extensive experience in building and d
 ## 🔗 Let's Connect  
 - **GitHub:** [alok-sharma-github](https://github.com/alok-sharma-github)  
 - **LinkedIn:** [Alok Sharma](https://www.linkedin.com/in/alok-sharma-connect/)
+- **Portfolio:** [Alok Sharma](https://alok-sharma-github.github.io/)
 
   ---
 
