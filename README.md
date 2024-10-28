@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Alok Sharma!  
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=435&lines=AI%2FML+Engineer+%7C+Cloud+Enthusiast)
-
 ### 🧑‍💻 AI/ML Developer | Cloud Enthusiast | Software Engineer  
 
 I am a results-driven AI/ML Engineer with extensive experience in building and deploying machine learning models and cloud-based solutions. My passion lies in leveraging AI technologies to create scalable and impactful solutions for real-world problems.
