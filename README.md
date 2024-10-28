@@ -61,6 +61,13 @@ I am a results-driven AI/ML Engineer with extensive experience in building and d
 
 ## 🔗 Let's Connect  
 - **GitHub:** [alok-sharma-github](https://github.com/alok-sharma-github)  
-- **LinkedIn:** [Alok Sharma](https://www.linkedin.com/in/alok-sharma-connect/)  
+- **LinkedIn:** [Alok Sharma](https://www.linkedin.com/in/alok-sharma-connect/)
+
+  ---
+
+## 🔗 Visitor Badge
+- ![Profile Views](https://komarev.com/ghpvc/?username=alok-sharma-github&style=flat-square&color=blue)
+
+
 
 
