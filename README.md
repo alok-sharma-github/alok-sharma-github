@@ -1,3 +1,5 @@
+![Profile Banner](profile-banner.png)
+
 # 👋 Hi, I'm Alok Sharma!  
 
 ### 🧑‍💻 AI/ML Developer | Cloud Enthusiast | Software Engineer  
