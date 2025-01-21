@@ -26,16 +26,15 @@ I am a results-driven AI/ML Engineer with extensive experience in building and d
 
 ## 💼 Recent Projects  
 
-### 🛍️ [Shopify Chatbot](https://inzint.com) (Inzint Pvt. Ltd)  
+### 🛍️ [Shopify Chatbot "Pvt Repo"](https://inzint.com) (Inzint Pvt. Ltd)  
 - Developed a chatbot for enhancing user engagement and product recommendations on Shopify stores.  
 - **Features:** Scalable to multiple stores, NLP-based query handling, situational recommendations, 24/7 customer support.  
 - **Tech Stack:** Python, Langchain, OpenAI, Flask  
 
-### 🤟 [Sign Language Detection (Self Project)](https://github.com/alok-sharma-github/SignLanguageDetection)  
-- Built a deep learning model for multi-class classification of sign language gestures using TensorFlow and Keras.  
-- Developed a desktop widget with TkInter.  
+### 🤟 [AI Content Creator (Self Project)](https://github.com/alok-sharma-github/AI-Post-Content-Creator)  
+- Python-based tool for generating and refining Instagram posts using AI. The tool leverages advanced language models and a structured workflow to create engaging, high-quality content tailored for Instagram. It includes features for planning, drafting, critiquing, and revising posts, as well as generating visual suggestions for images. 
 
-### 🚗 [Python Eye: Parking and Surveillance System](https://github.com/alok-sharma-github/PythonEye)  
+### 🚗 Python Eye: Parking and Surveillance System
 - Implemented parking spot detection, license plate recognition, and people counter using YOLOv8 and OpenCV.  
 - Built a Streamlit web app with real-time tracking using SORT algorithm.  
 
