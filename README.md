@@ -1,73 +1,113 @@
-# 👋 Hi, I'm Alok Sharma!  
+👋 Alok Sharma | AI/ML & Full-Stack Engineer
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=435&lines=AI%2FML+Engineer+%7C+Cloud+Enthusiast)
-### 🧑‍💻 AI/ML Developer | Cloud Enthusiast | Software Engineer  
+🧑‍💻 Building Scalable AI Solutions and Full-Stack Applications
+I’m a B.Tech CSE graduate with 1.5 years of experience delivering AI/ML, full-stack, and cloud-based solutions at a fast-paced startup. I specialize in end-to-end software development, from designing AI-driven automation tools to deploying scalable applications on AWS. My passion lies in solving real-world problems through innovative technologies, with a track record of leading teams and delivering impactful projects in healthcare, e-commerce, recruitment, and marketing.
+🌐 Explore My Resume: Live Resume on GitHub Pages📧 Contact: alok.sharma.connect@gmail.com
 
-I am a results-driven AI/ML Engineer with extensive experience in building and deploying machine learning models and cloud-based solutions. My passion lies in leveraging AI technologies to create scalable and impactful solutions for real-world problems.
+🔧 Skills & Expertise
 
----
+AI & Machine Learning:
+Algorithms: Regression, Classification, Clustering, Reinforcement Learning
+Deep Learning: ANN, CNN, RNN, LSTM, GANs, Attention Models
+NLP: LangChain, LLama-Index, Retrieval-Augmented Generation (RAG), OpenAI, Google Generative AI
+Computer Vision: YOLOv8, OpenCV
 
-## 🔧 Skills & Expertise  
-- **Machine Learning & AI:**  
-  - Regression, Classification, Clustering  
-  - ANN, CNN, RNN, LSTM, GANs, Attention Models, Reinforcement Learning  
-  - Large Language Models (LLMs), Langchain, LLama-Index, Retrieval Augmented Generation (RAG)  
-- **Cloud & Infrastructure:**  
-  - AWS (EC2, S3, Lambda, SageMaker, IAM)  
-  - Docker, Git, React.js, Node.js  
-- **Development & Databases:**  
-  - Python, SQL, HTML, CSS, JavaScript  
-  - MongoDB, PostgreSQL  
-  - Flask, Streamlit  
-- **Computer Vision & NLP:**  
-  - YOLO, OpenCV, Generative AI (OpenAI, Google Generative AI)  
 
----
+Full-Stack Development:
+Frontend: React, Redux, HTML, CSS, JavaScript
+Backend: Node.js, Flask, Fastify, REST APIs
+Frameworks: Streamlit, Express.js
 
-## 💼 Recent Projects  
 
-### 🛍️ [Shopify Chatbot "Pvt Repo"](https://inzint.com) (Inzint Pvt. Ltd)  
-- Developed a chatbot for enhancing user engagement and product recommendations on Shopify stores.  
-- **Features:** Scalable to multiple stores, NLP-based query handling, situational recommendations, 24/7 customer support.  
-- **Tech Stack:** Python, Langchain, OpenAI, Flask  
+Cloud & DevOps:
+AWS: EC2, S3, Lambda, ECS, ECR, Amplify, SageMaker, IAM
+Tools: Docker, Git, GitHub Actions, CI/CD
 
-### 🤟 [AI Content Creator (Self Project)](https://github.com/alok-sharma-github/AI-Post-Content-Creator)  
-- Python-based tool for generating and refining Instagram posts using AI. The tool leverages advanced language models and a structured workflow to create engaging, high-quality content tailored for Instagram. It includes features for planning, drafting, critiquing, and revising posts, as well as generating visual suggestions for images. 
 
-### 🚗 Python Eye: Parking and Surveillance System
-- Implemented parking spot detection, license plate recognition, and people counter using YOLOv8 and OpenCV.  
-- Built a Streamlit web app with real-time tracking using SORT algorithm.  
+Databases:
+SQL: MySQL, PostgreSQL
+NoSQL: MongoDB
 
----
 
-## 🎓 Education  
-- **B.Tech in Computer Engineering** – Punjab Technical University, Jalandhar (2024)  
-- **Intermediate** – Government Model Sr. Sec. School, Chandigarh (2020)  
-
----
-
-## 🌐 Languages  
-- English: Fluent  
-- Hindi: Fluent  
-- Punjabi: Fluent  
-
----
-
-## 📈 GitHub Stats  
-![Alok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alok-sharma-github&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alok-sharma-github&layout=compact&theme=radical)  
-
----
-
-## 🔗 Let's Connect  
-- **GitHub:** [alok-sharma-github](https://github.com/alok-sharma-github)  
-- **LinkedIn:** [Alok Sharma](https://www.linkedin.com/in/alok-sharma-connect/)
-
-  ---
-
-## 🔗 Visitor Badge
-- ![Profile Views](https://komarev.com/ghpvc/?username=alok-sharma-github&style=flat-square&color=blue)
+Other:
+Python, SQL, Linux
+Agile Methodologies, SDLC
 
 
 
+
+💼 Featured Projects
+🛍️ Shoppify Chatbot (Inzint Pvt. Ltd, May 2024 – Jul 2024)
+AI-powered Shopify extension for product queries and personalized customer support.
+
+Impact: Achieved 90% query resolution accuracy, scalable across multiple stores.
+Role: Led a team of 3, built ML model, React UI, and backend APIs.
+Tech: Python, LangChain, OpenAI, Flask, React, AWS.
+
+🤖 Talentle: AI Recruitment Platform (Inzint Pvt. Ltd, Jan 2025 – Mar 2025)
+Automated candidate screening platform with AI voice agents.
+
+Impact: Reduced manual screening effort by 40%, handled 100+ concurrent calls with 95% uptime.
+Role: Single-handedly developed end-to-end solution, including NLP, telephony, and UI.
+Tech: Python, NLP, React, Flask, AWS Lambda, MongoDB.
+
+📱 AI Labs: SocialSpark (Inzint Pvt. Ltd, Feb 2024 – Jun 2024)
+AI tool for generating brand-personalized social media posts.
+
+Impact: Boosted client engagement by 25% with automated content creation.
+Role: Built UI, backend, APIs, and CI/CD pipeline using GitHub Actions and ECS Fargate.
+Tech: React, Node.js, Python, AWS ECS, GitHub Actions.
+
+🩺 ZoeyMed: IVF Clinic Software (Inzint Pvt. Ltd, Aug 2024 – Dec 2024)
+Medical software for digital management of IVF treatments.
+
+Impact: Improved data flow efficiency by 30% with Redux integration.
+Role: Designed backend, database schemas, and APIs; led a team of 1.
+Tech: Node.js, Fastify, MongoDB, React, Redux, AWS.
+
+📸 AI Content Creator (Personal Project)
+Python-based tool for generating Instagram posts with AI-driven planning and visual suggestions.
+
+Impact: Streamlined content creation with automated drafting and critique workflows.
+Tech: Python, LangChain, Google Generative AI, Flask.
+
+🚗 Python Eye: Parking & Surveillance (Personal Project, Sep 2023 – Dec 2023)
+Real-time parking spot detection and surveillance system.
+
+Impact: Reduced manual oversight by 50% with Streamlit web app.
+Tech: YOLOv8, OpenCV, SORT, Streamlit, Python.
+
+
+🎓 Education
+
+B.Tech in Computer Science & EngineeringI.K. Gujral Punjab Technical University, Jalandhar | 2020 – 2024
+12th (CBSE)Government Model Sr. Sec. School, Chandigarh | 2019 – 2020
+
+
+🏆 Achievements
+
+Gold 4-Star Python Badge, HackerRank (2023)
+1st Runner-Up, GNA University Hackathon (2023)
+1st Runner-Up, Inter-College Chess Tournament (2022)
+
+
+🌐 Languages
+
+English: Fluent
+Hindi: Fluent
+Punjabi: Fluent
+
+
+📊 GitHub Stats
+
+
+🔗 Connect With Me
+
+GitHub: alok-sharma-github
+LinkedIn: Alok Sharma
+Resume: Live Resume
+Email: alok.sharma.connect@gmail.com
+
+
+👀 Visitor Count
 
