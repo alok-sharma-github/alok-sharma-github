@@ -1,13 +1,167 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Alok Sharma's Portfolio</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Alok Sharma - Resume</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    @media print {
+      body {
+        background-color: white !important;
+      }
+      .no-print {
+        display: none;
+      }
+    }
+    .star-rating::after {
+      content: '★★★★☆';
+      color: #FFD700;
+      margin-left: 4px;
+    }
+    .three-star::after {
+      content: '★★★☆☆';
+      color: #FFD700;
+      margin-left: 4px;
+    }
+  </style>
 </head>
-<body>
-    <h1>Hello, I'm Alok Sharma!</h1>
-    <p>Welcome to my portfolio.</p>
-    <a href="https://github.com/alok-sharma-github">GitHub Profile</a>
+<body class="bg-gray-100 text-gray-800">
+  <div class="max-w-4xl mx-auto bg-white p-8 shadow-lg my-8">
+    
+    <!-- Header -->
+    <header class="text-center mb-8">
+      <h1 class="text-4xl font-bold">Alok Sharma</h1>
+      <p class="mt-2 text-lg">B.Tech CSE graduate with 1.5 years of experience in AI/ML, full-stack development, and cloud-based solutions.</p>
+      <div class="flex justify-center flex-wrap gap-4 text-sm mt-4 text-gray-600">
+        <p>📍 377 Sector 19, Panchkula, 134109</p>
+        <p>☎ +91 9501-497362</p>
+        <p>📧 <a href="mailto:alok.sharma.connect@gmail.com" class="text-blue-600">alok.sharma.connect@gmail.com</a></p>
+      </div>
+      <div class="mt-2">
+        <a href="https://www.linkedin.com/in/alok-sharma-connect/" class="text-blue-600">LinkedIn</a> |
+        <a href="https://github.com/alok-sharma-github" class="text-blue-600">GitHub</a>
+      </div>
+    </header>
+
+    <!-- Professional Summary -->
+    <section class="mb-8">
+      <h2 class="text-2xl font-semibold border-b-2 border-gray-300 pb-2">Professional Summary</h2>
+      <p class="mt-4">
+        Proficient in the end-to-end software development lifecycle, with expertise in Python, React, AWS, and AI automation. Proven leadership in cross-functional teams delivering scalable systems—AI chatbots, recruitment tools, and healthcare platforms. Enthusiastic about driving innovation in AI, ML, or software engineering domains.
+      </p>
+    </section>
+
+    <!-- Experience -->
+    <section class="mb-8">
+      <h2 class="text-2xl font-semibold border-b-2 border-gray-300 pb-2">Professional Experience</h2>
+      <div class="mt-4">
+        <h3 class="text-xl font-semibold">Software Engineer (AI/ML & Full-Stack)</h3>
+        <p class="text-gray-600">Inzint Pvt Ltd | Remote/On-site | Feb 2024 – Present</p>
+        <ul class="list-disc ml-6 mt-2">
+          <li>Led AI and full-stack product development from planning to AWS deployment.</li>
+          <li>Worked across Python, React, Node.js, Flask, AWS EC2/S3/Lambda/ECR/ECS.</li>
+          <li>Managed small agile teams, coordinated sprints, and ensured timely deliverables.</li>
+          <li>Projects spanned healthcare, e-commerce, and recruitment sectors.</li>
+        </ul>
+
+        <!-- Projects -->
+        <div class="mt-4">
+          <h4 class="text-lg font-semibold">Key Projects</h4>
+
+          <div class="mt-2">
+            <p class="font-semibold">Shoppify Chatbot (May 2024 – Jul 2024)</p>
+            <ul class="list-disc ml-6">
+              <li>AI chatbot for Shopify: handled queries, personalized support, 90% resolution accuracy.</li>
+              <li>Led React UI, ML training, and AWS deployment pipeline.</li>
+            </ul>
+          </div>
+
+          <div class="mt-4">
+            <p class="font-semibold">ZoeyMed – IVF Clinic Platform (Aug 2024 – Dec 2024)</p>
+            <ul class="list-disc ml-6">
+              <li>Designed backend, databases, and APIs for medical workflows.</li>
+              <li>Integrated Redux for seamless frontend sync, improved efficiency by 30%.</li>
+            </ul>
+          </div>
+
+          <div class="mt-4">
+            <p class="font-semibold">SocialSpark (Feb 2023 – Jun 2023)</p>
+            <ul class="list-disc ml-6">
+              <li>AI-powered content generator for social media campaigns.</li>
+              <li>Built React UI, backend services, CI/CD (GitHub Actions + ECS Fargate).</li>
+            </ul>
+          </div>
+
+          <div class="mt-4">
+            <p class="font-semibold">Talentle (Jan 2025 – Mar 2025)</p>
+            <ul class="list-disc ml-6">
+              <li>Voice-agent powered hiring automation platform, cut screening time by 40%.</li>
+              <li>Managed NLP pipelines, API logic, and responsive React frontend.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Education -->
+    <section class="mb-8">
+      <h2 class="text-2xl font-semibold border-b-2 border-gray-300 pb-2">Education</h2>
+      <div class="mt-4">
+        <p class="font-semibold">B.Tech, Computer Science & Engineering</p>
+        <p class="text-gray-600">I.K. Gujral Punjab Technical University, Jalandhar | 2020 – 2024</p>
+      </div>
+      <div class="mt-4">
+        <p class="font-semibold">12th – CBSE</p>
+        <p class="text-gray-600">Govt. Model Sr. Sec. School, Chandigarh | 2019 – 2020</p>
+      </div>
+    </section>
+
+    <!-- Trainings -->
+    <section class="mb-8">
+      <h2 class="text-2xl font-semibold border-b-2 border-gray-300 pb-2">Trainings</h2>
+      <ul class="list-disc ml-6 mt-4">
+        <li><strong>Data Science Apprenticeship</strong> – Internshala: Hands-on Python, ML workflows.</li>
+        <li><strong>Deep Learning Apprenticeship</strong> – Internshala: Built DL models in TensorFlow/PyTorch.</li>
+        <li><strong>Statistics for Data Science</strong> – Internshala: Practical data analysis and visualization.</li>
+      </ul>
+    </section>
+
+    <!-- Skills -->
+    <section class="mb-8">
+      <h2 class="text-2xl font-semibold border-b-2 border-gray-300 pb-2">Skills</h2>
+      <div class="grid grid-cols-2 gap-4 mt-4">
+        <p>Python <span class="star-rating"></span></p>
+        <p>Full Stack (React, Node.js, Flask) <span class="star-rating"></span></p>
+        <p>AWS (EC2, Lambda, ECS, S3) <span class="star-rating"></span></p>
+        <p>Machine Learning <span class="star-rating"></span></p>
+        <p>Deep Learning <span class="star-rating"></span></p>
+        <p>NLP & Computer Vision <span class="star-rating"></span></p>
+        <p>SQL/NoSQL Databases <span class="star-rating"></span></p>
+        <p>Git & CI/CD <span class="star-rating"></span></p>
+        <p>Linux OS <span class="three-star"></span></p>
+        <p>HTML, CSS, JavaScript <span class="three-star"></span></p>
+      </div>
+    </section>
+
+    <!-- Achievements -->
+    <section class="mb-8">
+      <h2 class="text-2xl font-semibold border-b-2 border-gray-300 pb-2">Achievements</h2>
+      <ul class="list-disc ml-6 mt-4">
+        <li>Gold 4-Star Badge in Python – HackerRank</li>
+        <li>1st Runner-Up – GNA University Hackathon</li>
+        <li>1st Runner-Up – Inter-College Chess Tournament</li>
+      </ul>
+    </section>
+
+    <!-- Portfolio Links -->
+    <section class="mb-8">
+      <h2 class="text-2xl font-semibold border-b-2 border-gray-300 pb-2">Portfolio</h2>
+      <ul class="list-disc ml-6 mt-4">
+        <li><a href="https://www.linkedin.com/in/alok-sharma-connect/" class="text-blue-600">LinkedIn</a></li>
+        <li><a href="https://github.com/alok-sharma-github" class="text-blue-600">GitHub</a></li>
+      </ul>
+    </section>
+  </div>
 </body>
 </html>
